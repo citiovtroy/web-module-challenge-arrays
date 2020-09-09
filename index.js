@@ -50,7 +50,7 @@ function is31Flavors(originalFlavors){
 
 
 
-console.log(originalFlavors.every(is31Flavors));
+console.log(is31Flavors(originalFlavors))
 
 /* Task 2: Corporate has come to you with an idea for a new flavor: Rainbow Sherbert! They think this will be a game changer. You need to modify the array to include this flavor. 
 
